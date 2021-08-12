@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/DanielMT7">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielMT7&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMT7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=DanielMT7&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMT7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
