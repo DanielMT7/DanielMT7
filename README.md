@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS, JavaScript, ReactJS, C e Python
 - 📫 Contate-me no email: danielmotta04@hotmail.com
 - 😄 Pronouns: ele/dele
-- 👾 Apaixonado por Ethical Hacking
+- 👾 Apaixonado por Web Development e Ethical Hacking
 
 <div>
   <a href="https://github.com/DanielMT7">
