@@ -5,6 +5,7 @@
 - 📫 Contate-me no email: danielmotta04@hotmail.com
 - 😄 Pronouns: ele/dele
 - 👾 Apaixonado por Web Development e Ethical Hacking
+- 🌎 Portfólio: [danielmotta.pages.dev](https://danielmotta.pages.dev/)
 
 <div>
   <a href="https://github.com/DanielMT7">
