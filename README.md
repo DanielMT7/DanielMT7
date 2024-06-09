@@ -1,10 +1,10 @@
 ### ~$ whoami 
 ## Daniel Motta
 
-- 🌱 Estudando HTML, CSS, JavaScript, ReactJS, C e Python
-- 📫 Contate-me no email: danielmotta04@hotmail.com
-- 😄 Pronouns: ele/dele
-- 👾 Apaixonado por Web Development e Ethical Hacking
+- 🌱 Studying HTML, CSS, JavaScript, TypeScript, and ReactJS
+- 📫 Contact me at: danielmotta04@hotmail.com
+- 😄 Pronouns: he/him
+- 👾 Passionate about Web Development and Ethical Hacking
   
 <div>
   <a href="https://github.com/DanielMT7">
@@ -17,6 +17,7 @@
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
